@@ -13,7 +13,7 @@
     OPTIONS:
 
         -I replace-str
-            Replace occurrences of replace-str in the command-arguments with the counter.
+            Replace occurrences of replace-str in the command-arguments with the counter (starting at 0).
 
         -h
             Display usage
